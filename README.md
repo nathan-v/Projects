@@ -7,6 +7,10 @@ The games section has been re-added (missing in the source).
 
 I'm planning on putting the solutions in this repo as I complete them.
 
+[![Build Status](https://travis-ci.org/nathan-v/Projects.png)](https://travis-ci.org/nathan-v/Projects)
+
+[![Coverage Status](https://coveralls.io/repos/nathan-v/Projects/badge.png)](https://coveralls.io/r/nathan-v/Projects)
+
 
 Source repo text:
 
